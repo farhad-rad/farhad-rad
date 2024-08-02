@@ -17,8 +17,8 @@ I'm a passionate Full Stack Web Developer with over 11 years of experience in th
 ## 🛠 Experience
 
 ### Freelance Web Developer
-**Vira Fan Avaran AKO** · Freelance · <img alt="2022~Present" src="https://img.shields.io/badge/2022-Present-blue">  
-*Tehran, Tehran Province, Iran · Remote*  
+**Vira Fan Avaran AKO** · <img alt="2022~Present" src="https://img.shields.io/badge/2022-Present-blue">  
+*Tehran, Tehran Province, Iran · Freelance*  
 > Currently engaged in various freelance projects, continually honing my skills and tackling new challenges.
 
 ### Senior Web Developer & Head of DevOps
@@ -48,7 +48,7 @@ I'm a passionate Full Stack Web Developer with over 11 years of experience in th
 
 ### Freelance Web Developer
 **Ako Team** · <img alt="2014~2018" src="https://img.shields.io/badge/2014-2018-red">  
-*Tehran, Tehran Province, Iran · Remote*  
+*Tehran, Tehran Province, Iran · Freelance*  
 > To begin, I worked as a freelancer and provided 100+ not-so-professional solutions to various projects.
 
 ### Web Development Intern
