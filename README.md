@@ -1,4 +1,4 @@
-<img alt="banner" style="width:100%" src="./assets/final.gif">
+<img alt="banner" style="width:100%" width="100%" src="./assets/final.gif">
 # 👋 Welcome to My GitHub Profile!
 
 I'm a passionate Full Stack Web Developer with over 11 years of experience in the industry. I specialize in building robust backend systems, dynamic frontend interfaces, and efficient databases. I also have a knack for DevOps and enjoy creating seamless development workflows.
