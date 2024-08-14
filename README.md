@@ -26,6 +26,8 @@ I'm a passionate Full Stack Web Developer with over 11 years of experience in th
 
 ### Other Technologies <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"></code> <code><img height="30" src="https://img.shields.io/badge/Leaflet-648501?style=for-the-badge&logo=leaflet"></code> <code><img height="30" src="https://img.shields.io/badge/ThreeJS-2c2c2c?style=for-the-badge&logo=threedotjs"></code> <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"></code> <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"></code> <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg"></code>
 
+<img alt="banner" style="width:100%" width="100%" src="./assets/banner.png">
+
 ## 🛠 Experience
 
 ### Freelance Web Developer
